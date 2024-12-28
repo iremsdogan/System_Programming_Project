@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "file_operations.h": "c",
+        "dirent.h": "c",
+        "logger.h": "c",
+        "permissions.h": "c",
+        "types.h": "c",
+        "grp.h": "c"
+    }
+}
